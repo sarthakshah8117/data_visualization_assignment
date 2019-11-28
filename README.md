@@ -15,7 +15,7 @@ For more detail on project [Click Here ](https://docs.google.com/document/d/1P0I
 
 ## Considerations
 ### Make as simple as possible so that the story describes directly to the reader. 
-Use your mockup design to code it similarily.
+### Use your mockup design to code it similarily.
 
 ## prerequisities 
 ### Poster and one page website for visualizationof data must be similar at some extend.
