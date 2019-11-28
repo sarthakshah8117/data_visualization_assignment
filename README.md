@@ -23,6 +23,6 @@ For more detail on project [Click Here ](https://docs.google.com/document/d/1P0I
 ## Author 
 ### Sarthak A Shah
 
-## license 
+## License 
 ### This project is licensed under Fanshawe college. 
 
