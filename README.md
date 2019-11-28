@@ -2,7 +2,7 @@
 ![visual images](/images/datavisualization.jpg)
 
 ## My Work
-### Creating graphs of data visualization using python and than launch the final one page website. The topic i am working on is ## ````Men Leads Women```` in which i descibe how men progressed in all ways from women. Moreover, the webpage is based on residing the story using data.
+### Creating graphs of data visualization using python and than launch the final one page website. The topic i am working on is  ````Men Leads Women```` in which i descibe how men progressed in all ways from women. Moreover, the webpage is based on residing the story using data.
 
 ## Steps To Follow:
 1. Using Tableau sort the data and choose the title.
@@ -24,5 +24,5 @@ Use your mockup design to code it similarily.
 ### Sarthak A Shah
 
 ## license 
-### This project is licensed under ##Fanshawe college. 
+### This project is licensed under Fanshawe college. 
 
