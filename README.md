@@ -24,5 +24,5 @@ For more detail on project [Click Here ](https://docs.google.com/document/d/1P0I
 ### Sarthak A Shah
 
 ## License 
-### This project is licensed under Fanshawe college. 
+### This project is licensed under ````Fanshawe college````. 
 
